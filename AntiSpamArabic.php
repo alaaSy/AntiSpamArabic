@@ -1,8 +1,8 @@
 <?php
 
-$API_KEY = ""; //// Your Token
-$bot_id = 12345678; //// Your Bot ID
-$e = "@djgbot"; //// Your Bot USERNAME
+$API_KEY = "419887770:AAFacqBUoMnLwtkWHwurO2D51Qdw7mH0sdA"; //// Your Token
+$bot_id = 419887770; //// Your Bot ID
+$e = "@kingsybot"; //// Your Bot USERNAME
 
 define('BOT_TOKEN', $API_KEY);
 
